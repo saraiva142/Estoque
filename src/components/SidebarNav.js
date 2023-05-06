@@ -75,7 +75,7 @@ const SidebarNav = () => {
         </Stack>
       </Stack>
       <Text fontSize="xs" fontWeight="bold" color="gray.400">
-        <a href="https://www.google.com" target="_blank" >SITE PARA CONSULTA</a>
+        <a href="https://www.google.com" target="_blank" rel="noreferrer">SITE PARA CONSULTA</a>
         </Text>
     </Stack>
   );
