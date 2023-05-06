@@ -142,7 +142,7 @@ const Produtos = () => {
                     color="blue.500"
                     fontWeight="bold"
                     >
-                      <a href={item.link} target="_blank">foto</a>
+                      <a href={item.link} target="_blank" rel="noreferrer">foto</a>
                     </Button>
                       
                     </Td>
